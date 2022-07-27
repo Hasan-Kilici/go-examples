@@ -17,6 +17,6 @@ var a = "String (metin)"
     var e int
     fmt.Println(e)
 
-    f := "apple"
+    f := "elma"
     fmt.Println(f)
 }
