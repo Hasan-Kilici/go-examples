@@ -1,6 +1,6 @@
 # go-examples
 Türkçe Go Lang örnekleri
-# <a href="">Değişkenleri Oluşturma</a>
+# <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/veriables">Değişkenleri Oluşturma</a>
 Go'da bir değişken bildirmenin iki yolu vardır:
 1. var anahtar sözcüğü ile
 var anahtar sözcüğünü, ardından değişken adını ve türünü kullanabilirsiniz
