@@ -8,7 +8,7 @@ var yazi1 string = "Merhaba Dünya"
 var yazi2 = "Merhaba Dünya"
 yazi3 := "Merhaba Dünya"
   
-fmt.Print("Veri tipi: %T, değeri: %v\n", yazi1)
-fmt.Print("Veri tipi: %T, değeri: %v\n", yazi2)
-fmt.Print("Veri tipi: %T, değeri: %v\n", yazi3)
+fmt.Printf("Veri tipi: %T, değeri: %v\n", yazi1)
+fmt.Printf("Veri tipi: %T, değeri: %v\n", yazi2)
+fmt.Printf("Veri tipi: %T, değeri: %v\n", yazi3)
 }
