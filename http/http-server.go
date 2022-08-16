@@ -35,6 +35,7 @@ func handle(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	fmt.Println("http server açıldı!")
+	// serves all the static files in the static directory
 	http.Handle(
 		"/static/",
 		 http.StripPrefix(
@@ -42,6 +43,7 @@ func main() {
 			http.FileServer(http.Dir("static")),
 		),
 	)
+	// runs the server on any ip and handles the index
 	http.HandleFunc("/", handle)
 	http.ListenAndServe(":0", nil)
 }
