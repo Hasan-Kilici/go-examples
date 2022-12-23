@@ -3,6 +3,7 @@ Türkçe Go Lang örnekleri
 
 İçindekiler:
   - Input, Output
+  - Değişkenler
   - Veri Tipleri
   - Koşullar
   - Döngüler
