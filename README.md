@@ -7,7 +7,8 @@ Türkçe Go Lang örnekleri
   - Koşullar
   - Döngüler
   - Fonksiyonlar
-  -
+  - Diziler
+  - Zamanlayıcılar
   - Console Uyguluması örnekleri
     - Maden oyunu
     - Taş kağıt makas
