@@ -6,6 +6,8 @@ Türkçe Go Lang örnekleri
   - Veri Tipleri
   - Koşullar
   - Döngüler
+  - Fonksiyonlar
+  -
   - Console Uyguluması örnekleri
     - Maden oyunu
     - Taş kağıt makas
