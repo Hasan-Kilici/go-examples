@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+pre{
+  padding:5px;
+  width:100%;
+}
+.img{
+  width:80%;
+  border-radius:8px;
+}
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12{padding:2vw;}
+a{
+  text-decoration:none;
+  font-size:2em;
+  color:black;
+  margin-left:1vw;
+}
