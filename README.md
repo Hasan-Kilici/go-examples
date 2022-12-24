@@ -19,7 +19,7 @@ Türkçe Go Lang örnekleri
     - Go Portfolio
   - NoSQL DB( MongoDB )
    - Connection
-  -SQL<br>
+  - SQL
     - connection
     - insert
    
