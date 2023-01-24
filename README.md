@@ -13,9 +13,12 @@ Türkçe Go Lang örnekleri
     - Maden oyunu
     - Taş kağıt makas
     - ...
-  - HTTP Server Örnekleri
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http">HTTP Server Örnekleri</a>
     - Gin Portfolio
     - Go Portfolio
+    - ...
+  - Desktop Örnekleri
+    - Hesap makinesi
   - NoSQL DB( MongoDB )
     - Connection
   - SQL
