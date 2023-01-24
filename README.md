@@ -3,7 +3,7 @@ Türkçe Go Lang örnekleri
 
 İçindekiler:
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/variables">Değişkenler</a>
-  - Veri Tipleri
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/data%20types">Veri Tipleri</a>
   - Koşullar
   - Döngüler
   - Fonksiyonlar
