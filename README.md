@@ -17,7 +17,7 @@ Türkçe Go Lang örnekleri
     - Gin Portfolio
     - Go Portfolio
     - ...
-  - Desktop Örnekleri
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop">Desktop Örnekleri</a>
     - Hesap makinesi
   - NoSQL DB( MongoDB )
     - Connection
