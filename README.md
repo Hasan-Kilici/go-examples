@@ -3,7 +3,7 @@ Türkçe Go Lang örnekleri
 
 İçindekiler:
   - Input, Output
-  - Değişkenler
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/variables">Değişkenler</a>
   - Veri Tipleri
   - Koşullar
   - Döngüler
