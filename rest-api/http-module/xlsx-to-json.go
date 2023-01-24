@@ -9,7 +9,6 @@ import (
 )
 
 func main() {
-    http.Handle("/", http.FileServer(http.Dir("./my-app/build")))
     http.HandleFunc("/api/products", func(w http.ResponseWriter, r *http.Request) {
         if r.Method != http.MethodPost {
             http.Error(w, "Invalid request method", http.StatusMethodNotAllowed)
