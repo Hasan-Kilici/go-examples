@@ -21,7 +21,7 @@ Türkçe Go Lang örnekleri
     - Hesap makinesi
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/mongo-db">NoSQL DB( MongoDB )</a>
     - Connection
-  - SQL
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/sql">SQL</a>
     - connection
     - insert
   - Templateler
