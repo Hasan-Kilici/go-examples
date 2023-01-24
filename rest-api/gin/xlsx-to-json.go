@@ -11,7 +11,6 @@ import (
 
 func main() {
 	r := gin.Default()
-	r.Static("/", "./my-app/build")
 	r.POST("/api/products", func(c *gin.Context) {
 		file, err := xlsx.OpenFile("urun.xlsx")
 		if err != nil {
