@@ -7,9 +7,9 @@ Türkçe Go Lang örnekleri
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/if-else">Koşullar</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/loops">Döngüler</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/functions">Fonksiyonlar</a>
-  - Diziler
-  - Zamanlayıcılar
-  - Console Uyguluması örnekleri
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/array%20(diziler)">Diziler</a>
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/timer">Zamanlayıcılar</a>
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/console">Console Uyguluması örnekleri</a>
     - Maden oyunu
     - Taş kağıt makas
     - ...
