@@ -20,5 +20,5 @@ func main() {
 		return
 	}
 
-	fmt.Printf("%d satır eklendi\n", rowCount)
+	fmt.Printf("%d satır Silindi\n", rowCount)
 }
