@@ -1,6 +1,20 @@
 # go-examples
 Türkçe Go Lang örnekleri
-
+İçeriklere geçmeden önce Go projesi nasıl oluşturulur ondan bahsedeyim
+ilk olarak golangi indirmeniz gerekiyor <a href="https://go.dev/doc/install">bu linkten indirebilirsiniz</a>
+indirdikten sonra terminali açıp gonun yüklenip yüklenmediğini test etmek için versiyon komutunu kullanın
+<pre>
+$go version
+</pre><br><br>
+Şimdi bir go projesi oluşuralım
+bir klasör açın ve o klasörün içine main.go dosyanızı açın
+sonra terminale
+<pre>
+$go mod init
+</pre>
+yazın, ve sonra Kodlamaya başlayın!
+bütün komutları görmek için <a href="https://pkg.go.dev/cmd/go"></a>
+<br><br><br>
 İçindekiler:
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/variables">Değişkenler</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/data%20types">Veri Tipleri</a>
