@@ -5,7 +5,7 @@ ilk olarak golangi indirmeniz gerekiyor <a href="https://go.dev/doc/install">bu 
 indirdikten sonra terminali açıp gonun yüklenip yüklenmediğini test etmek için versiyon komutunu kullanın
 <pre>
 $ go version
-</pre><br><br>
+</pre>
 Şimdi bir go projesi oluşuralım
 bir klasör açın ve o klasörün içine main.go dosyanızı açın
 sonra terminale
