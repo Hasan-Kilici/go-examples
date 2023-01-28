@@ -24,6 +24,9 @@ Türkçe Go Lang örnekleri
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/sql">SQL</a>
     - connection
     - insert
+    - delete
+    - update
+    - drop
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/template/react">Templateler</a>
     - Go + Gin + React
   -  <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/desktop">Go ile Windowsa, Linuxa, MacOS'a uygulama geliştirmek</a>
