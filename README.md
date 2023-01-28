@@ -16,6 +16,7 @@ Türkçe Go Lang örnekleri
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http">HTTP Server Örnekleri</a>
     - Gin Portfolio
     - Go Portfolio
+    - Go Cookie Clicker
     - ...
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop">Desktop Örnekleri</a>
     - Hesap makinesi
