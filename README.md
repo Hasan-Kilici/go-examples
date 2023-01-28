@@ -24,13 +24,13 @@ yazın, ve sonra Kodlamaya başlayın!
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/array%20(diziler)">Diziler</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/timer">Zamanlayıcılar</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/console">Console Uyguluması örnekleri</a>
-    - Maden oyunu
-    - Taş kağıt makas
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/simple/console/mininggame.go">Maden oyunu</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/simple/console/rock-paper-%20scissors.go">Taş kağıt makas</a>
     - ...
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http">HTTP Server Örnekleri</a>
-    - Gin Portfolio
-    - Go Portfolio
-    - Go Cookie Clicker
+    - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http/gin-portfolio">Gin Portfolio</a>
+    - <a href="https://github.com/Hasan-Kilici/go-portfolio-template">Go Portfolio</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http/go-cookie-clicker">Go Cookie Clicker</a>
     - ...
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop">Desktop Örnekleri</a>
     - Hesap makinesi
