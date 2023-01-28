@@ -33,15 +33,14 @@ yazın, ve sonra Kodlamaya başlayın!
     - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http/go-cookie-clicker">Go Cookie Clicker</a>
     - ...
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop">Desktop Örnekleri</a>
-    - Hesap makinesi
+    - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop/electron/calculator">Hesap makinesi</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/mongo-db">NoSQL DB( MongoDB )</a>
     - Connection
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/sql">SQL</a>
-    - connection
-    - insert
-    - delete
-    - update
-    - drop
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/connection.go">connection</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/insert.go">insert</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/delete.go">delete</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/update.go">update</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/template/react">Templateler</a>
     - Go + Gin + React
   -  <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/desktop">Go ile Windowsa, Linuxa, MacOS'a uygulama geliştirmek</a>
