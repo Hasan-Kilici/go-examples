@@ -13,7 +13,7 @@ sonra terminale
 $go mod init
 </pre>
 yazın, ve sonra Kodlamaya başlayın!
-bütün komutları görmek için <a href="https://pkg.go.dev/cmd/go"></a>
+ <a href="https://pkg.go.dev/cmd/go">bütün komutları görmek için tıklayın</a>
 <br><br><br>
 İçindekiler:
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/variables">Değişkenler</a>
