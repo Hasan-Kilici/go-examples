@@ -35,7 +35,7 @@ yazın, ve sonra Kodlamaya başlayın!
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop">Desktop Örnekleri</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop/electron/calculator">Hesap makinesi</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/mongo-db">NoSQL DB( MongoDB )</a>
-    - Connection
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mongo-db/connection.go">Connection</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/sql">SQL</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/connection.go">connection</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/insert.go">insert</a>
