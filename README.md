@@ -40,6 +40,9 @@ yazın, ve sonra Kodlamaya başlayın!
     - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop/electron/calculator">Hesap makinesi</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/mongo-db">NoSQL DB( MongoDB )</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mongo-db/connection.go">Connection</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mongo-db/insert.go">insert</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mongo-db/delete.go">delete</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mongo-db/update.go">update</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/db/sql">SQL</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/connection.go">connection</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/insert.go">insert</a>
