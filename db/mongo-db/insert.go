@@ -20,7 +20,7 @@ func main() {
 	}
 	defer client.Disconnect(context.TODO())
 
-	collection := client.Database("dbname").Collection("ogrenci")
+	collection := client.Database("testdb").Collection("ogrenci")
 
 	student := struct {
 		Isim    string
