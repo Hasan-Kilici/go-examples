@@ -45,6 +45,16 @@ yazın, ve sonra Kodlamaya başlayın!
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/insert.go">insert</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/delete.go">delete</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/sql/update.go">update</a>
+  - MySQL
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mysql/connection.go">connection</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mysql/insert.go">insert</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mysql/delete.go">delete</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/mysql/update.go">update</a>
+  -Redis
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/redis/connection.go">connection</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/redis/insert.go">insert</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/redis/delete.go">delete</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/db/redis/update.go">update</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/template/react">Templateler</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/template/react">Go + Gin + React</a>
   -  <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/desktop">Go ile Windowsa, Linuxa, MacOS'a uygulama geliştirmek</a>
