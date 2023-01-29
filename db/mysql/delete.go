@@ -14,7 +14,6 @@ func main() {
     return
   }
 
-  // Etkileşimli satır sayısını alın
   rowCount, err := res.RowsAffected()
   if err != nil {
     fmt.Println(err)
