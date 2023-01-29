@@ -4,7 +4,7 @@ import (
  "database/sql"
 )
 
-func main(urunid){
+func main(){
   db, err := sql.Open("sql", "user:password@/dbname");
   dbrows, err := trstokdb.Query("SELECT * FROM ogrenci");
   for stokrows.Next() {
