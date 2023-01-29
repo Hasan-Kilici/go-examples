@@ -23,7 +23,7 @@ func main() {
 		return
 	}
 
-	ogrenciCollection := client.Database("veritabaniAdi").Collection("ogrenci")
+	ogrenciCollection := client.Database("testdb").Collection("ogrenci")
 
 	updateResult, err := ogrenciCollection.UpdateOne(
 		context.TODO(),
