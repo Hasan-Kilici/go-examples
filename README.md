@@ -23,6 +23,10 @@ yazın, ve sonra Kodlamaya başlayın!
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/functions">Fonksiyonlar</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/array%20(diziler)">Diziler</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/timer">Zamanlayıcılar</a>
+  - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http">HTTP Server</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http/gin">Gin</a>
+       - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http/gin/body-parser">body parser</a>
+       - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http/gin/file-upload">file uploader</a> 
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/console">Console Uyguluması örnekleri</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/simple/console/mininggame.go">Maden oyunu</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/simple/console/rock-paper-%20scissors.go">Taş kağıt makas</a>
