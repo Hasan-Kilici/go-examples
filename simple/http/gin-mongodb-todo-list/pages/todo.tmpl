@@ -1,0 +1,57 @@
+<html>
+    <head>
+     <link rel="stylesheet" href="/static/style.css">
+    </head>
+    <body>
+        <form style="margin-top:8vh" method="POST" action="/add-task">
+        <center>
+        <input type="text" id="task" name="task">
+        <input type="submit">
+        </center>
+        </form>
+        <div id="tasks">
+         <ul>
+{{ range .tasks }}
+
+<li class="task" {{ if eq .Status "finished" }}style="text-decoration: line-through"{{ end }}>
+  <p>Task: {{.Task}}</p>
+  {{ if eq .Status "not-finished" }}
+  <form action="/finish-task/{{.ID.Hex}}" method="POST">
+    <input type="submit" value="Finish">
+  </form>
+  {{ end }}
+  {{ if eq .Status "finished" }}
+  <form action="/unfinish-task/{{.ID.Hex}}" method="POST">
+    <input type="submit" value="Unfinish">
+  </form>
+  {{ end }}
+  <form action="/delete-task/{{.ID.Hex}}" method="POST">
+    <input type="submit" value="Delete">
+  </form>
+</li>
+{{ end }}
+         </ul>
+        </div>
+    <body>
+    <script src="/static/script.js"></script>
+</html>
+<style>
+body{
+    margin:0;
+    padding:0;
+}
+ul{
+    padding-left:80px;
+    padding-right:80px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.task{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.task p{
+    width:80%;
+}
+</style>

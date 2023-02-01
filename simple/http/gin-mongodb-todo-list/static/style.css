@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+}
+ul{
+    padding-left:80px;
+    padding-right:80px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.task{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.task p{
+    width:80%;
+}
