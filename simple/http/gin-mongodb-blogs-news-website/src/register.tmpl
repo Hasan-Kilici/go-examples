@@ -1,0 +1,9 @@
+        {{ if .message }}
+            {{ .message }}
+        {{ end }}
+        <form action="/register" method="post">
+	        <input type="text" id="username" name="username" placeholder="Kullanıcı Adı" required>
+	        <input type="password" id="password" name="password" placeholder="Şifre" required>
+            <input type="email" id="gmail" name="gmail" placeholder="gmail" required>
+	        <input type="submit" value="Kayıt Ol">
+        </form>

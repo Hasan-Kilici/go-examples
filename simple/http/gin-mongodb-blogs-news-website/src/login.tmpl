@@ -1,0 +1,8 @@
+		<form action="/login" method="post">
+        {{ if .message }}
+            {{ .message }}
+        {{ end }}
+			<input type="text" name="username" placeholder="Kullanıcı Adı" required>
+			<input type="password" name="password" placeholder="Şifre" required>
+			<input type="submit" value="Giriş Yap">
+		</form>
