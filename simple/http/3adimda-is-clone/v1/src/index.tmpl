@@ -1,0 +1,19 @@
+{{ if .user }}
+<h3>Kayitlisin</h3>
+
+{{ else }}
+<h3>Kayıt ol</h3>
+{{ end }}
+    {{range .adverts}}
+    <div><h4>{{.Title}}</h4>
+    <pre>{{.Description}}</pre>
+    <b>{{.Minprice }} - {{.Maxprice}}TL</b>
+    ilana basvur
+    <form method="POST" action="apply/advert/{{ .ID.Hex }}">
+      <input placeholder="baslik girin" type="text" id="title" name="title"><br>
+      <b>aciklama girin</b><br>
+      <textarea id="description" name="description"></textarea>
+      <input type="submit">
+    </form>
+    </div>
+    {{end}}

@@ -1,0 +1,23 @@
+    <h1>Mesajlar</h1>
+    {{ range .message }}
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Description }}</p>
+      <p>Author: {{ .Author }}</p>
+      <p>Author ID: {{ .AuthorID }}</p>
+      <p>Message ID: {{ .MessageID }}</p>
+      <p>To ID: {{ .ToID }}</p>
+      <p>Created At: {{ .CreatedAt }}</p>
+      <h2>Mesaja cevap ver</h2>
+      <form action="/reply/message/{{ .ID.Hex }}" method="post">
+  <div>
+    <label for="title">Başlık:</label>
+    <input type="text" id="title" name="title">
+  </div>
+  <div>
+    <label for="description">Açıklama:</label>
+    <textarea id="description" name="description"></textarea>
+  </div>
+  <button type="submit">Cevapla</button>
+</form>
+
+    {{ end }}
