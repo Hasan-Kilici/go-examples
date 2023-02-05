@@ -16,13 +16,7 @@ func main() {
 	app.Post("/giris", func(c *fiber.Ctx) {
 	  isim := c.FormValue("isim")
 	  soyisim := c.FormValue("soyisim")
-
-		header := fiber.Map{
-		"isim": isim,
-      		"soyisim": soyisim,
-		}
-
-		c.Render("index.html", header)
+	  c.Send(isim,soyisim)
 	})
 
 	log.Fatal(app.Listen(":3000"))
