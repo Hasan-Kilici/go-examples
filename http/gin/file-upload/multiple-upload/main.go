@@ -26,7 +26,7 @@ func main() {
 			dst := "uploads/" + file.Filename
 			c.SaveUploadedFile(file, dst)
 		}
-		c.String(http.StatusOK, fmt.Sprintf("%d files uploaded!", len(files)))
+		c.String(http.StatusOK, fmt.Sprintf("%d Dosyalar yüklendi!", len(files)))
 	})
 
 	r.Run()
