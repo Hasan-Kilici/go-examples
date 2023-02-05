@@ -38,24 +38,24 @@ func main() {
 	taskcollection := client.Database("todolist").Collection("tasks")
 
 	r := gin.Default()
-  r.GET("/api/tasks", func(c *gin.Context) {
-    var tasks []Task
-    cursor, err := taskcollection.Find(context.TODO(), bson.M{})
-    if err != nil {
-      log.Fatalf("Error finding tasks: %v", err)
-    }
-    for cursor.Next(context.TODO()) {
-      var task Task
-      if err := cursor.Decode(&task); err != nil {
-        log.Fatalf("Error decoding task: %v", err)
-      }
-      tasks = append(tasks, task)
-    }
-    if err := cursor.Err(); err != nil {
-      log.Fatalf("Error iterating cursor: %v", err)
-    }
-    c.JSON(http.StatusOK, tasks)
-  })
+	  r.GET("/api/tasks", func(c *gin.Context) {
+	    var tasks []Task
+	    cursor, err := taskcollection.Find(context.TODO(), bson.M{})
+	    if err != nil {
+	      log.Fatalf("Error finding tasks: %v", err)
+	    }
+	    for cursor.Next(context.TODO()) {
+	      var task Task
+	      if err := cursor.Decode(&task); err != nil {
+		log.Fatalf("Error decoding task: %v", err)
+	      }
+	      tasks = append(tasks, task)
+	    }
+	    if err := cursor.Err(); err != nil {
+	      log.Fatalf("Error iterating cursor: %v", err)
+	    }
+	    c.JSON(http.StatusOK, tasks)
+	  })
   r.Run(":5000")
 }
 
