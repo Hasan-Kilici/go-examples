@@ -29,6 +29,8 @@ yazın, ve sonra Kodlamaya başlayın!
        - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http/gin/file-upload">file uploader</a> 
        - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http/gin/go-cache">go cache</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http/go-fiber">Go-Fiber</a>
+       - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http/go-fiber/body-parser">body parser</a>
+       - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/http/go-fiber/file-upload">file uploader</a>
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/console">Console Uyguluması örnekleri</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/simple/console/mininggame.go">Maden oyunu</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/blob/main/simple/console/rock-paper-%20scissors.go">Taş kağıt makas</a>
