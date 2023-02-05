@@ -10,14 +10,16 @@ import (
 
 func main() {
 	app := fiber.New()
-
-	app.Post("/form", func(c *fiber.Ctx) {
-		isim := c.FormValue("isim")
+	app.Get("/", func(c *fiber.Ctx){
+		c.SendFile("index.html")
+	}
+	app.Post("/giris", func(c *fiber.Ctx) {
+	  isim := c.FormValue("isim")
 	  soyisim := c.FormValue("soyisim")
 
 		header := fiber.Map{
-			"isim": isim,
-      "soyisim": soyisim,
+		"isim": isim,
+      		"soyisim": soyisim,
 		}
 
 		c.Render("index.html", header)
