@@ -37,6 +37,8 @@ yazın, ve sonra Kodlamaya başlayın!
     - <a href="https://github.com/Hasan-Kilici/go-portfolio-template">Go Portfolio</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http/go-cookie-clicker">Go Cookie Clicker</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http/gin-mongodb-todo-list">Go Gin Mongodb Todo List</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http/gin-mongodb-blogs-news-website">Go Gin MongoDB blog - haber sitesi</a>
+    - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/http/3adimda-is-clone/v1">Go Gin Go-cache mongodb 3 adımda iş clone (versiyon versiyon)</a>
     - ...
   - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop">Desktop Örnekleri</a>
     - <a href="https://github.com/Hasan-Kilici/go-examples/tree/main/simple/desktop/electron/calculator">Hesap makinesi</a>
