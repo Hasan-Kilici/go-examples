@@ -1,3 +1,5 @@
+<h3>Burayı okumadan önce Artık bunları <a href="https://github.com/golang-dersleri">GoLang Dersleri</a> organizasyonunda paylaşacağımızı söylemeliyim</h3>
+
 # go-examples
 Türkçe Go Lang örnekleri
 İçeriklere geçmeden önce Go projesi nasıl oluşturulur ondan bahsedeyim
