@@ -1,4 +1,4 @@
-<h3>Burayı okumadan önce Artık bunları <a href="https://github.com/golang-dersleri">GoLang Dersleri</a> organizasyonunda paylaşacağımızı söylemeliyim</h3>
+<h3>Burayı okumadan önce Artık bunları <a href="https://github.com/hasan-kilici/go-tutorials">GoLang Dersleri</a> organizasyonunda paylaşacağımızı söylemeliyim</h3>
 
 # go-examples
 Türkçe Go Lang örnekleri
